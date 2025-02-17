@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second-year PhD student in Engineering Mathematics at University of Bristol funded 
+I'm currently a second-year PhD candidate in Engineering Mathematics at University of Bristol funded 
 by [EPSRC-DTP](https://gtr.ukri.org/projects?ref=studentship-2920630). I received my MSc in Data 
 Science and my BSc in Computer Science and Technology.
 
-My research interests are broadly in the ethics and trustworthiness (e.g., explainability, fairness) of AI (LLMs, 
-graphs).
+Data migration is in progress, including contents merging from the [previous webpage](jingcs.com), and different GitHub accounts: [@fairxai](https://fairxai.github.io/demo/TabularICL/index.html) (project-based), [@ym21669](https://github.com/ym21669) (current, teaching-based), [@jingcs](https://github.com/jingcs) (blue-sky, some non-tech notes).
 
-*Data migration in progress, the alternative web can be found [here](jingcs.com). At the moment, have several different GitHub accounts: @[fairxai](https://fairxai.github.io/demo/TabularICL/index.html) (project-based), @[ym21669](https://github.com/ym21669) (current, teaching-based), @[jingcs](https://github.com/jingcs) (blue-sky, some non-tech notes).
+My research interests are broadly in the ethics and **trustworthiness (e.g., explainability, fairness) of AI (LLMs,** **graphs).** The resume can be found [here](https://ym21669.github.io//cv/).
 
 
 Publications
@@ -40,6 +39,5 @@ Skills
 * Language: (Native) Chinese; (Familiar, PTE:72) English; (Familiar, JLPT: N2) Japanese
 * Programming/Scripting: Python, Java, C#, SQL, C++, Matlab; Pytorch, PEFT
 * Tech: AWS, VPS, SpringBoot, HTML, Elastic Search, Android Studio, Git, Neo4j, Mysql, Flask
-* Reviewer: AISTATS, AAAI ReLM, Journal of Pattern Recognition, ACM Computing Surveys,
-
+* Reviewer: AISTATS, AAAI ReLM, Journal of Pattern Recognition, ACM Computing Surveys
 
