@@ -19,8 +19,7 @@ My research interests are broadly in the ethics and **trustworthiness (e.g., exp
 Publications
 ======
 
-![LLM](/Users/hjy/gitProject/ym21669.github.io/images/pp_icons/llm.png) **LLMs**    ![Fairness](/Users/hjy/gitProject/ym21669.github.io/images/pp_icons/fairness.png) **Fairness/Alignment**   ![XAI](/Users/hjy/gitProject/ym21669.github.io/images/pp_icons/xai.png) **Explainable AI**
-
+![LLM](/Users/hjy/gitProject/ym21669.github.io/images/pp_icons/llm.png) **LLMs**  | ![Fairness](/Users/hjy/gitProject/ym21669.github.io/images/pp_icons/fairness.png) **Fairness/Alignment** | ![XAI](/Users/hjy/gitProject/ym21669.github.io/images/pp_icons/xai.png) **Explainable AI**
 
 *	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A 
   Survey 
