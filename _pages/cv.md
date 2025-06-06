@@ -42,7 +42,7 @@ Publications
 
 *	**Hu, J.**, Yang, M., Du, M. ,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) &#124;  ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
 
-*	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) | ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
+*	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) &#124; ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	**Hu, J.**, Bo, H., Hong, J., Liu, X., & Liu, W. (2025). Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes 
      in Graph Contrastive Learning. Under-review.  ![Fairness](../images/pp_icons/fairness.png) 
