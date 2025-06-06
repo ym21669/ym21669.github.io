@@ -20,6 +20,7 @@ Publications
 ![LLM](../images/pp_icons/llm.png) **LLMs**  | ![Fairness](../images/pp_icons/fairness.png) **Fairness/Alignment** | ![XAI](../images/pp_icons/xai.png) **Explainability/Interpretability**
 
 *	**Hu, J.**, Yang, M., Du, M. ,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) |  ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
+
 *	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) | ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	**Hu, J.**, Bo, H., Hong, J., Liu, X., & Liu, W. (2025). Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes 
@@ -51,5 +52,5 @@ Skills
 * Language: (Native) Chinese; (Familiar, PTE:72) English; (Familiar, JLPT: N2) Japanese
 * Programming/Scripting: Python, Java, C#, SQL, C++, Matlab; Pytorch, PEFT
 * Tech: AWS, VPS, SpringBoot, HTML, Elastic Search, Android Studio, Git, Neo4j, Mysql, Flask
-* Reviewer: AISTATS, AAAI ReLM, Journal of Pattern Recognition, ACM Computing Surveys
+* Reviewer: ACL, ECAI, AISTATS, AAAI ReLM, Journal of Pattern Recognition, ACM Computing Surveys
 
