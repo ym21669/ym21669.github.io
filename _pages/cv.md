@@ -38,11 +38,12 @@ Teaching
 
 Publications
 ======
-![LLM](../images/pp_icons/llm.png) **LLMs**  | ![Fairness](../images/pp_icons/fairness.png) **Fairness/Alignment** | ![XAI](../images/pp_icons/xai.png) **Explainable AI**
+![LLM](../images/pp_icons/llm.png) **LLMs**  &#124; ![Fairness](../images/pp_icons/fairness.png) **Fairness/Alignment** &#124; ![XAI](../images/pp_icons/xai.png) **Explainability/Interpretability**
 
-*	**Hu, J.**, Yang, M., Du, M. ,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) |  ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
+*	**Hu, J.**, Yang, M., Du, M. ,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) &#124;  ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) | ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
+
 *	**Hu, J.**, Bo, H., Hong, J., Liu, X., & Liu, W. (2025). Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes 
      in Graph Contrastive Learning. Under-review.  ![Fairness](../images/pp_icons/fairness.png) 
 *	**Hu, J.**, Liu, W., & Du, M. (2024). Strategic Demonstration Selection for Improved Fairness in LLM In-Context 
@@ -55,6 +56,7 @@ Publications
      Healthcare for Non-experts. xAI 2023. [**Paper**](https://seis.bristol.ac.uk/~wl14805/Publications/XAI2023-Hu.pdf) | [**Demo**](https://med-xai.jingcs.com/) | ![XAI](../images/pp_icons/xai.png) 
 *	Li, M., **Hu, J.**, and Ho Ryu K. An Efficient Tool for Semantic Biomedical Document Analysis SIST 2021. [**Demo**](https://jingcs.com/index.php/ei-an-efficient-tool-for-semantic-biomedical-document-analysis/) 
 *	**Hu J.**, Li M,, Zhang Z., et al. An Efficient Semantic Document Similarity Calculation Method Based on Double-Relations in Gene Ontology. FITAT.
+
 
 Projects
 ======
