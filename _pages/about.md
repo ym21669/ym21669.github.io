@@ -12,8 +12,7 @@ I'm currently a second-year PhD candidate in Engineering Mathematics at Universi
 by [EPSRC-DTP](https://gtr.ukri.org/projects?ref=studentship-2920630). I received my MSc in Data 
 Science and my BSc in Computer Science and Technology. My research interests are broadly in the ethics and **trustworthiness (e.g., explainability, fairness) of AI (LLMs,** **graphs).** The resume can be found [here](https://ym21669.github.io//cv/).
 
-Data migration is in progress, including contents merging from the [previous webpage](jingcs.com), and different GitHub accounts: [@fairxai](https://fairxai.github.io/demo/TabularICL/index.html) (project-based), [@ym21669](https://github.com/ym21669) (current, teaching-based), [@jingcs](https://github.com/jingcs) (blue-sky, some non-tech notes).
-
+Data migration is in progress, including contents merging from the [previous webpage](https://jingcs.com), and different GitHub accounts: [@fairxai](https://fairxai.github.io/demo/TabularICL/index.html) (project-based), [@ym21669](https://github.com/ym21669) (current, teaching-based), [@jingcs](https://github.com/jingcs) (blue-sky, some non-tech notes).
 
 Publications
 ======

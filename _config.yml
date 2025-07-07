@@ -86,7 +86,7 @@ author:
   location         : "Bristol, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=xxxxxxx"
+  googlescholar    : "https://scholar.google.com/citations?user=XLtLn9wAAAAJ&hl=en"
   email            : "ym21669[at]bristol[dot]ac[dot]uk"
   researchgate     : #"https://www.researchgate.net/profile/xxxx"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4566-5327"
+  orcid            : #"https://orcid.org/0000-0002-4566-5327"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
