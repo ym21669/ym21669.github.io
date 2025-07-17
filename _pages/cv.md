@@ -14,7 +14,7 @@ Education
 - PhD student of Engineering Mathematics (2023-Now)
 - Master of Data Science (2021-2022)
   - Academic performance: First Class; Distinction
-  - Core courses: Large-Scale Data Engineering (66%); Statistical Computing and Empirical Methods (76%); Introduction to Artificial Intelligence (68%); Advanced Data Analytics (81%). 
+  - Core courses: Large-Scale Data Engineering (Merit); Statistical Computing and Empirical Methods (Distinction); Introduction to Artificial Intelligence (Merit); Advanced Data Analytics (Distinction). 
 
 - Bachelor of Computer Science and Technology (2016-2020)
   - Academic performance: GPA 3.58/4.0
@@ -45,7 +45,7 @@ Publications
 *	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) &#124; ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	**Hu, J.**, Bo, H., Hong, J., Liu, X., & Liu, W. (2025). Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes 
-     in Graph Contrastive Learning. Under-review.  ![Fairness](../images/pp_icons/fairness.png) 
+     in Graph Contrastive Learning. Under-review. [**Preprint**](https://arxiv.org/pdf/2506.05214) &#124; ![Fairness](../images/pp_icons/fairness.png) 
 *	**Hu, J.**, Liu, W., & Du, M. (2024). Strategic Demonstration Selection for Improved Fairness in LLM In-Context 
      Learning. EMNLP 2024. [**Paper**](https://arxiv.org/abs/2501.01346) | [**Code**](https://github.com/FairXAI/Strategic_ICL_Tabular) | [**Demo**](https://fairxai.github.io/demo/TabularICL/index.html) | ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png)
 *	Yang, R., **Hu, J.**, Li, Z., Mu, J., Yu, T., Xia, J., ... & Xiong, H. (2024). Interpretable machine learning for 
