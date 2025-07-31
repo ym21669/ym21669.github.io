@@ -40,7 +40,7 @@ Publications
 ======
 ![LLM](../images/pp_icons/llm.png) **LLMs**  &#124; ![Fairness](../images/pp_icons/fairness.png) **Fairness/Alignment** &#124; ![XAI](../images/pp_icons/xai.png) **Explainability/Interpretability**
 
-*	**Hu, J.**, Yang, M., Du, M. ,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) &#124;  ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
+*	**Hu, J.**, Yang, M., Du, M.,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) &#124; [**Demo**](https://fairxai.github.io/demo/LlmPoliLens/) &#124; ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) &#124; ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
 
