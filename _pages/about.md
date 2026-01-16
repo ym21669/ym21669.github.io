@@ -8,22 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second-year PhD candidate in Engineering Mathematics at University of Bristol funded 
-by [EPSRC-DTP](https://gtr.ukri.org/projects?ref=studentship-2920630). I received my MSc in Data 
-Science and BSc in Computer Science and Technology. My research interests are broadly in the ethics and **trustworthiness (e.g., explainability, fairness) of AI (LLMs,** **graphs).** The resume can be found [here](https://ym21669.github.io//cv/).
+I'm a third-year PhD candidate in Engineering Mathematics at University of Bristol funded 
+by [EPSRC-DTP](https://gtr.ukri.org/projects?ref=studentship-2920630) and currently in the placement [@Alan Turing 
+Institute](https://www.turing.ac.uk/people/enrichment-students/jingyu-hu). I received my MSc in Data 
+Science and BSc in Computer Science and Technology. My research interests are broadly in the **trustworthiness (e.g.,
+explainability, alignment) of AI (LLMs,** **graphs).** The resume can be found [here](https://ym21669.github.io//cv/).
 
 Data migration is in progress, including contents merging from the [previous webpage](https://jingcs.com), and different GitHub accounts: [@fairxai](https://fairxai.github.io/demo/TabularICL/index.html) (project-based), [@ym21669](https://github.com/ym21669) (current, teaching-based), [@jingcs](https://github.com/jingcs) (blue-sky, some non-tech notes).
+Open for general discussion and potential research collaboration 📧 Feel free to contact [📧](jingyu.hu@bristol.ac.uk).
 
 Publications
 ======
 ![LLM](../images/pp_icons/llm.png) **LLMs**  &#124; ![Fairness](../images/pp_icons/fairness.png) **Fairness/Alignment** &#124; ![XAI](../images/pp_icons/xai.png) **Explainability/Interpretability**
+
+*	**Hu, J.,** Yang, S., Gong, X., Wang, H., Liu, W., & Wang, D. (2025). MONICA: Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2511.06419) &#124; ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	**Hu, J.**, Yang, M., Du, M. ,& Liu, W., (2025). Fine-Grained Interpretation of Political Opinions in Large Language Models. arXiv preprint.   [**Preprint**](https://arxiv.org/abs/2506.04774) &#124; [**Demo**](https://fairxai.github.io/demo/LlmPoliLens/) &#124; ![LLM](../images/pp_icons/llm.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	Shu D, Zhao H, **Hu J.**, Liu W., Cheng L. & Du, M. (2025) Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability[J]. arXiv preprint. [**Preprint**](https://arxiv.org/abs/2501.01346) &#124; ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png) ![XAI](../images/pp_icons/xai.png) 
 
 *	**Hu, J.**, Bo, H., Hong, J., Liu, X., & Liu, W. (2025). Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes 
-     in Graph Contrastive Learning. Under-review. [**Preprint**](https://arxiv.org/pdf/2506.05214) &#124; ![Fairness](../images/pp_icons/fairness.png) 
+     in Graph Contrastive Learning. Under-review. [**Preprint**](https://arxiv.org/pdf/2506.05214) | [**Code**](https://github.com/ym21669/SHARP) &#124; ![Fairness](../images/pp_icons/fairness.png) 
 *	**Hu, J.**, Liu, W., & Du, M. (2024). Strategic Demonstration Selection for Improved Fairness in LLM In-Context 
      Learning. EMNLP 2024. [**Paper**](https://arxiv.org/abs/2501.01346) | [**Code**](https://github.com/FairXAI/Strategic_ICL_Tabular) | [**Demo**](https://fairxai.github.io/demo/TabularICL/index.html) | ![LLM](../images/pp_icons/llm.png) ![Fairness](../images/pp_icons/fairness.png)
 *	Yang, R., **Hu, J.**, Li, Z., Mu, J., Yu, T., Xia, J., ... & Xiong, H. (2024). Interpretable machine learning for 
